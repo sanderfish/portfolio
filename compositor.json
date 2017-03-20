@@ -34,32 +34,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/sanderfish/portfolio",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
-      "component": "header",
-      "heading": "portfolio",
-      "subhead": null,
-      "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "portfolio: ",
-          "url": null
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "sanderfish",
-          "repo": "portfolio"
-        }
-      ]
-    },
-    {
       "component": "article",
       "metadata": {
         "source": "github.readme"
